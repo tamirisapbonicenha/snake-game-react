@@ -2,6 +2,8 @@
 
 Jogo da cobrinha feito com React + Vite.
 
+**Jogue online:** https://tamirisapbonicenha.github.io/snake-game-react/
+
 ## Como rodar
 
 ```bash
